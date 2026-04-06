@@ -1,3 +1,5 @@
+# Check Out My Portfolio: [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://www.saurabhchauhan.tech/)
+
 # About Me:
 -I’m currently working on<br>Full-stack web projects, blockchain-based applications, and scalable backend systems with a focus on real-world problem solving.<br><br>-I’m looking to collaborate on<br>Open-source projects, web platforms, blockchain solutions, and innovative tech ideas that create real impact.<br><br>- I’m looking for help with<br>Advanced system design, optimizing backend performance, and contributing effectively to large-scale open-source projects.<br><br>- I’m currently learning<br>Advanced JavaScript, backend architecture, blockchain development, and modern full-stack best practices.<br><br>-Ask me about<br>JavaScript, Web Development, Blockchain basics, Git/GitHub, project structuring, and interview preparation.<br><br>-Fun fact<br>I enjoy turning complex ideas into simple, clean implementations — and I love building projects more than just talking about them
 
